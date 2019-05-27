@@ -1,6 +1,3 @@
-import re
-
-
 class Cube:
 
     _dataLower = [
